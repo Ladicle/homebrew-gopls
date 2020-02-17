@@ -1,0 +1,3 @@
+* Homebrew formula for Go Language Server
+
+Please reference [gopls](https://github.com/golang/tools/blob/master/gopls/doc/user.md)
