@@ -5,6 +5,5 @@ Please reference [[https://github.com/golang/tools/blob/master/gopls/doc/user.md
 ** Installation
 
 #+BEGIN_SRC bash
-brew tap Ladicle/gopls
-brew install gopls
+brew install Ladicle/gopls/gopls
 #+END_SRC
